@@ -19,8 +19,6 @@ This project analyzes monthly sales data to provide insights into revenue trends
 - Top-performing product categories and individual items based on revenue and sales volume.
 - Visualizations include bar charts, pie charts, and line graphs.
 
-## Preview
-![Dashboard Screenshot](
 
 ## Steps to Use the Dashboard
 1. Download the `.pbix` file from this repository.
